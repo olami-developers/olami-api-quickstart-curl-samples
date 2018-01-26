@@ -10,3 +10,9 @@ The repo is organized as follows:
 
 * [Natural Language Understanding Samples](natural-language-understanding)
 * [Cloud Speech Recognition Samples](cloud-speech-recognition)
+
+* * *
+
+### OLAMI NLP modeling (OSL design) examples
+
+See Repository : [olami-osl-examples](https://github.com/olami-developers/olami-osl-examples)
